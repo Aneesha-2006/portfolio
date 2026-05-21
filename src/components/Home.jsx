@@ -23,7 +23,7 @@ function Home() {
           <div className="relative mb-8">
             <img
               className="w-48 h-48 rounded-full object-cover border-4 border-cyan-400 shadow-[0_0_40px_rgba(34,211,238,0.25)] transform hover:scale-105 transition-transform duration-300"
-              src="/image/aneesha.jpeg"
+              src="./image/aneesha.jpeg"
               alt="Aneesha"
             />
             <span className="absolute bottom-4 right-4 w-5 h-5 bg-green-500 border-4 border-slate-900 rounded-full animate-pulse"></span>
